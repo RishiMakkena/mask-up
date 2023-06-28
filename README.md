@@ -10,7 +10,7 @@
 
 ## 2) All links 
 ### SMARTBRIDGE ASSIGNMENT FOLDER (all links): 
-### https://drive.google.com/drive/folders/1me7mzsxYSlefkg91VbebxX3URLgVwBfh?usp=drive_link
+### https://drive.google.com/drive/folders/1VBaPm4vADpqkO0NgwOH79yUbWKIG6fJt?usp=drive_link
 
 ### Dataset  : https://drive.google.com/drive/folders/1rtjOvsmx9X-mkrcXWFnTcYhH-YZ9jxfV
 
