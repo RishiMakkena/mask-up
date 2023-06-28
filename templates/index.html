@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>mask-up</title>
+  <style>
+    button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 1rem;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+      color: #fff;
+      background-color: #333;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #ffffff;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 0 auto;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    body {
+      font-family: 'Instrument Sans', sans-serif;
+      background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IVPRGAVQXUI6VGFVE6NGI6NB4Q.jpg&w=916');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+    }
+
+    #container2 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      height: 55vh;
+    }
+
+    #container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      height: 20vh;
+    }
+
+    #containerr {
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f2f2f2;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+
+<body>
+  <br>
+  <div id="containerr">
+
+    <div id="container">
+      <button type="button" onclick="myFunction()">
+        <h1>MASK UP</h1>
+      </button>
+    </div>
+
+
+    <div id="container2">
+      <img src="{{ url_for('video_feed') }}"></video>
+
+
+    </div>
+
+
+
+  </div>
+
+  <br>
+
+
+
+</body>
+
+</html>
