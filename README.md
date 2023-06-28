@@ -16,8 +16,8 @@
 
 ### Project Report : https://drive.google.com/file/d/1FILjngiEBbyXriQ61rfYgAR-HHjhpUEW/view?usp=drive_link
 
-### Assignment 1 : https://drive.google.com/file/d/16VAwo2z6mOtWwGMrMlrtxiIxZga_8x9Z/view?usp=drive_link
+### Assignment 1 : https://drive.google.com/file/d/1fciQZNGqY1wmjy8SZj2bSSbiBjl_E-ww/view?usp=share_link
 
-### Assignment 2 : https://drive.google.com/file/d/1taf0EUn6lbfurLqJKL-wWibcumjqGeZ7/view?usp=drive_link
+### Assignment 2 : https://drive.google.com/file/d/1HOuh08hNfZSgA4EQlBh8GDitwAZHKVO_/view?usp=share_link
 
-### Assignment 3 : https://drive.google.com/file/d/18hMUvbgoqxmJ3eG74jVMH9i0TTaKap1z/view?usp=drive_link
+### Assignment 3 : https://drive.google.com/file/d/1xBeQ6EVScP50s1xXIKSvDmx-hBzZVSTb/view?usp=sharing
